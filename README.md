@@ -1,2 +1,2 @@
 ﻿# RoxChats
-‣Chat-bot app
+‣Chatbot app
